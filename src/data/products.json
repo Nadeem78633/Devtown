@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Laptop",
+    "price": "$1000",
+    "category": "Electronics",
+    "desc":"Apple Laptop with 16gb Ram with Core i5",
+    "image": "/images/laptop1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BMW 3 Series",
+    "price": "$10000",
+    "category": "Vehicles",
+    "desc":"BMW, in full Bayerische Motoren Werke AG",
+    "image": "/images/car12.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mens Shoes",
+    "price": "$400",
+    "category": "Shoes",
+    "desc":"Mens shoes With best comfort ",
+    "image": "/images/shoe1.jpg"
+  },
+   {
+    "id": 4,
+    "name": "Toys ",
+
+    "price":"$620",
+    "category":"Toy",
+    "desc":"Best Toys for Children",
+    "image":"/images/toy1.jpg"
+
+  },
+   {
+    "id": 5,
+    "name": "Airpods 1",
+    
+    "price":"$530",
+      "category": "Electronics",
+      "desc":"Best Airpods with noise cancellation",
+    "image":"/images/airdopes1.jpg"
+
+  },
+   {
+    "id": 6,
+    "name": "T shirt",
+    
+    "price":"$40",
+    "desc":"T shirt with green color",
+    "category":"Clothe",
+    "image":"/images/clothe1.jpg"
+
+  },
+  
+  {
+    "id": 7,
+"name": "Apple Laptop ",
+
+    "price": "$1000",
+    "desc":"Apple Laptop ,Gray color ,16 gb Ram ",
+    "category":"Electronics",
+    "image": "/images/laptop1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Honda Civic",
+
+    "price": "$10000",
+    "desc":"Car with white color high milage ",
+    "category":"Vehicles",
+    "image": "/images/car13.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Brown color Shoes",
+ 
+    "price": "$50",
+    "desc":"Brown color shoes ,Pure Leather",
+    "category":"Shoes",
+    "image": "/images/shoe2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ford Mustang",
+    
+   
+    "price": "$10090",
+    "desc":"Ford Mustang ,Red Color",
+        "category": "Vehicles",
+    "image": "/images/car14.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Airpods 2",
+  
+    "price": "$500",
+    "desc":"Airpods ,White color ,Noise Cancellation",
+    "category": "Electronics",
+    "image": "/images/airdopes2.jpg"
+  },
+  {
+    "id": 12,
+   "name": "Teddy Wear",
+  
+    "price": "$8",
+    "desc":"Teddy Wear for Your Child",
+    "category": "Toy",
+    "image": "/images/toy2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Jeans Pants",
+  
+    "price": "$80",
+    "desc":"Buy Three pants combo Together",
+    "category": "Clothe",
+    "image": "/images/clothe2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nike Shoes",
+  
+    "price": "$97",
+    "desc":"Nike White Color Men's shoes",
+    "category": "Shoes",
+    "image": "/images/shoe4.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Jeep Wrangler",
+ 
+    "price": "$5000",
+     "desc":"Car light Black color",
+    "category": "Vehicles",
+    "image": "/images/car15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Airplane",
+ 
+    "price": "$50",
+     "desc":"Airplane for children",
+    "category": "Toy",
+    "image": "/images/toy5.jpg"
+   
+  },
+  {
+    "id": 17,
+   "name": "Airpods 3",
+ 
+    "price": "$50",
+     "desc":"Airpods ,White color ,Noise Cancellation",
+    "category": "Electronics",
+    "image": "/images/airdopes3.jpg"
+  },
+  {
+    "id": 18,
+   "name": "Mens Full Wear",
+ 
+    "price": "$5000",
+     "desc":"Men's Combo Shoes and Jeans and T shirt",
+    "category": "Clothe",
+    "image": "/images/clothe3.jpg"
+  }
+  
+
+
+]
